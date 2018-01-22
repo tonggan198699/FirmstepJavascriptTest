@@ -51,16 +51,16 @@ Requirements
 
 # Application pictures
 
-Overview 
+**Overview** 
 <p align="center"><img src="https://image.ibb.co/hhynuG/firmstep1.jpg"></p>
 
-Phone list
+**Phone list**
 <p align="center"><img src="https://image.ibb.co/de58ZG/firmstep2.jpg"></p>
 
-Example of phone filter
+**Example of phone filter**
 <p align="center"><img src="https://image.ibb.co/dfFaEG/firmstep3.jpg"></p>
 
-Alert message will pop up if filter produces no result - i.e Iphone and 32 GB
+**Alert message will pop up if filter produces no result - i.e Iphone and 32 GB**
 <p align="center"><img src="https://image.ibb.co/fJWt1w/firmstep4.jpg"></p>
 
 
